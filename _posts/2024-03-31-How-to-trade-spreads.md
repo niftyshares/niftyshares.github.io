@@ -7,7 +7,7 @@ fdsfs
 dfdsfdsfdsfds fgdsfs
 lorem
 
-<img src='assets\img\bg-masthead - Copy.jpg'>
+<img src='https://niftyshares.com/assets/img/bg-masthead - Copy.jpg'>
 ---
 
 ### This is a header
